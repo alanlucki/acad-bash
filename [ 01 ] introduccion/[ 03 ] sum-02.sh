@@ -6,6 +6,6 @@ read a
 echo 'Ingrese b = '
 read b
 
-suma=$((a + b))
+suma=$(( a + b ))
 
 echo $a + $b = $suma
