@@ -1,0 +1,19 @@
+{
+  "name": "acad-bash",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alanlucki/acad-bash.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alanlucki/acad-bash/issues"
+  },
+  "homepage": "https://github.com/alanlucki/acad-bash#readme"
+}
