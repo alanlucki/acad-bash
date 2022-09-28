@@ -1,0 +1,21 @@
+{
+  "name": "acad-bash",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "[ 01 ]": "nodemon --exec sh '[ 01 ] hello-world.sh'",
+    "[ 02 ]": "nodemon --exec sh '[ 02 ] sum.sh'",
+    "[ 03 ]": "nodemon --exec sh '[ 03 ] sum-02.sh'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alanlucki/acad-bash.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alanlucki/acad-bash/issues"
+  },
+  "homepage": "https://github.com/alanlucki/acad-bash#readme"
+}
