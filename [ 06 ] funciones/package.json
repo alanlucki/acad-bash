@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "[ 01 ]": "nodemon --exec sh '[ 01 ] mi-primera-funcion.sh'",
-    "[ 02 ]": "nodemon --exec sh '[ 02 ] sum.sh'"
+    "[ 02 ]": "nodemon --exec sh '[ 02 ] sum.sh'",
+    "[ 03 ]": "nodemon --exec sh '[ 03 ] factorial.sh'"
   },
   "repository": {
     "type": "git",
