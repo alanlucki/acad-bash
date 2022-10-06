@@ -4,12 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "[ 01 ]": "nodemon --exec sh '[ 01 ] hello-world.sh'",
-    "[ 02 ]": "nodemon --exec sh '[ 02 ] sum.sh'",
-    "[ 03 ]": "nodemon --exec sh '[ 03 ] sum-02.sh'",
-    "[ 04 ]": "nodemon --exec sh '[ 04 ] variables-entorno.sh'",
-    "[ 05 ]": "nodemon --exec sh '[ 05 ] comentarios.sh'"
-    
+    "[ 01 ]": "nodemon --exec sh '[ 01 ] ordenamiento.sh'"
   },
   "repository": {
     "type": "git",
